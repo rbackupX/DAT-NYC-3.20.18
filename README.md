@@ -11,10 +11,10 @@ Welcome to the student repository for General Assembly's Part-Time Data Science 
 
 * [Syllabus](projects/ds-syllabus.pdf)
 * [Assignment and Project Due Dates](projects/DS-project-due-dates.pdf)
-* [Project I](unit-projects/project-1/README.md) 
-* [Project II]
-* [Project III]
-* [Project IV]
-* [Final Project]
+* [Project I](projects/unit-projects/project-1/README.md) 
+* [Project II]()
+* [Project III]()
+* [Project IV]()
+* [Final Project]()
 
 
